@@ -213,10 +213,29 @@ To contribute improvements and optimizations to the design:
 
 ## 📄 License & Terms of Use
 
-These design files are provided for educational, research, and reference purposes only. Commercial applications require explicit authorization.
+**License**: CC BY-NC-SA 4.0 (Attribution-NonCommercial-ShareAlike 4.0 International)
+
+You are free to:
+- **Share** — Copy and redistribute the material in any medium or format
+- **Adapt** — Remix, transform, and build upon the material
+
+Under the following terms:
+- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made
+- **NonCommercial** — You may not use the material for commercial purposes
+- **ShareAlike** — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original
+
+**Details**: https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+
+**Commercial Licensing:**
+If you are a company or institution interested in using the TriCoSphere Hand for commercial purposes, please contact us to negotiate a commercial license:
+📧 Email: [hurz2024@shanghaitech.edu.cn]
+
 
 ---
 
 **Thank you for your interest in the TriCoSphere Hand project!** 🙌
 
 For questions or suggestions, please contact us via email.
+
+
