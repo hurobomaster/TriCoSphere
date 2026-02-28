@@ -1,0 +1,5 @@
+# SolidWorks 临时文件
+~$*.SLDPRT
+~$*.SLDASM
+~$*.SLDDRW
+*.bak
