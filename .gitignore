@@ -1,5 +1,11 @@
-# SolidWorks 临时文件
-~$*.SLDPRT
-~$*.SLDASM
-~$*.SLDDRW
+# Native CAD source files are not distributed.
+*.SLDPRT
+*.SLDASM
+*.SLDDRW
+*.sldprt
+*.sldasm
+*.slddrw
+
+# Temporary and backup files
+~$*
 *.bak
